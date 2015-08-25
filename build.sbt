@@ -2,7 +2,7 @@ Nice.scalaProject
 
 name := "blastdb16s"
 organization := "ohnosequences-bundles"
-description := "A bundle for blastdb16s tool"
+description := "A bundle for downloading 16S Blast db"
 
 publishBucketSuffix := "era7.com"
 
